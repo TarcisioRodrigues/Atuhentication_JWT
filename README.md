@@ -25,4 +25,4 @@ Um sistema de autenticaçao feito em NodeJs
 - Clone o repositório
 - Rode o `yarn start` para iniciar a aplicação.
 
-Por fim, a aplicação estará disponível em `http://localhost:3000`
+Por fim, a aplicação estará disponível em `http://localhost:3333`
